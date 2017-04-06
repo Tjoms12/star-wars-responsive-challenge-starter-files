@@ -14,12 +14,8 @@ main .row {
 
 header {
 	background-color: #eebb44;
-	width:100%;
-	height:120px;
 	position:fixed;
-	padding-left: 30px;
-	margin-bottom: 60px;
-	display:block;
+	width: 100%;
 }
 .card_pic {
 	width: 100%;
