@@ -1,5 +1,10 @@
 main {
-  padding-top: 100px;
+  padding-top: 130px;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  color: #252525;
 }
 
 main .row {
@@ -16,7 +21,9 @@ header {
 	background-color: #eebb44;
 	position:fixed;
 	width: 100%;
+	top: 0px;
 }
+
 .card_pic {
 	width: 100%;
 }
